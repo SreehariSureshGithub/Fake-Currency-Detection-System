@@ -1,6 +1,6 @@
 # Fake-Currency-Detection-System
 
-# Datasets :
+## Datasets :
 https://www.kaggle.com/datasets/sreeharisureshkaggle/fake-currency-detection-dataset
 
 Detects Counterfeit Indian Currency using Image Processing Techniques
